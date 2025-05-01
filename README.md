@@ -35,7 +35,7 @@ The goal was to apply semantic HTML structure and custom CSS styling while follo
 
 ## 📸 Screenshot
 
-*(Optional: Add a screenshot here if you have one)*
+![Cafe Menu Screenshot](./screenshot.png)
 
 ## 🚀 Live Preview
 
